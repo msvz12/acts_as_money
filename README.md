@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Expand Model method type hinting (#8279)
