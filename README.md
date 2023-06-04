@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Allow Annotator PIL.Image inputs (#8397)
