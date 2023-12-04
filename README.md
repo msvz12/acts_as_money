@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
