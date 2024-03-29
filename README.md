@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+YOLOv8 INT8 TFLite Inference Example (#7317)
