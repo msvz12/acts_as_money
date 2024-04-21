@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Remove unused variables (#8511)
