@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Merge pull request #22 from SkalskiP/patch-1
