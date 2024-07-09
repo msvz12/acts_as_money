@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
