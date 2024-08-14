@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
