@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
