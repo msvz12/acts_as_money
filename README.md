@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add estimate_speed(region_color) parameter (#8285)
