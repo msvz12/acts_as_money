@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+TensorRT FP16 export with dynamic=True (#7870)
